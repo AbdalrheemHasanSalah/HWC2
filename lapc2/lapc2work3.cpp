@@ -1,4 +1,11 @@
+//Implement a struct Account. An account has
 
+//a balance variable,
+//functions to add and withdraw (سحب) money,
+//and a function to inquire (استعلام) the current balance.
+//Instantiate an object of type Account and initialize the balance member with any value.
+
+//Charge a $5 penalty (عقوبة) if an attempt is made to withdraw more money than available in the account.
 
 #include <iostream>
 #include<math.h>
